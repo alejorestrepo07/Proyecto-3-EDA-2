@@ -1,0 +1,4 @@
+idCentro,nombre,ubicacion,capacidadMaxima
+1,Acopio Norte,Medellin,5000.0
+2,Acopio Sur,Cali,8000.5
+3,Acopio Central,Bogota,TEXTO_INVALIDO

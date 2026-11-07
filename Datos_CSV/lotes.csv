@@ -1,0 +1,5 @@
+idLote,tipoSuministro,peso,volumen,requiereCadenaFrio,fechaCaducidad
+101,Medicamentos,50.5,1.2,1,2027-12-01
+102,Agua,500.0,5.0,0,2028-01-01
+103,Comida,-20.0,2.5,0,2026-11-01
+104,Vacunas,10.0,0.5,true,2025-01-01
